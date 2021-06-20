@@ -1,2 +1,2 @@
-[dev]
-172.31.57.190 ansible_user=ansible
+[web]
+172.31.49.216 ansible_user=ansible
